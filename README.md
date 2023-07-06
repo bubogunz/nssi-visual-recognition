@@ -1,2 +1,5 @@
-# nssi-visual-recognition
-Use of visual recognition to fight self-harming contents on social networks
+# Use of visual recognition to fight self-harming contents on social networks
+
+---
+## Abstract
+In the last years, social networks usage has seen an enormous growth. On them, not only we can find useful and positive information, but also negative material, such as visual contents representing Non-Suicidal Self-Injury behaviour. This type of visual content is proven to have a negative influence on those who see such contents, especially on young and vulnerable people, because they facilitate the normalisation and the imitation of those ones. [4] On social networks, and in particular on Tumblr, there is a strong and hidden presence of people performing NSSI actions who sometimes share photos representing the act of cutting. With this work, we have developed a visual recognition model able to decide whether a photo contains cuts on any body’s part or not. We then have compared different convolutional architectures to find out wich one best fulfilled the task. Our final aim is to raise awareness on this delicate subject and be able to identify and support those who are hurting themselves.
